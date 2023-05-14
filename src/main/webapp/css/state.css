@@ -1,0 +1,135 @@
+.statewrapper h3 {
+    padding: 5px 10px 10px;
+    border: 5px double;
+    margin-top: 30px;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px black;
+    box-shadow: 2px 1px 3px 1px black inset;
+}
+
+.statewrapper .card b {
+    cursor: pointer;
+    font-size: 2em;
+    /*text-shadow: 2px 2px 3px black;*/
+    /*text-decoration: underline;*/
+}
+
+.statewrapper .card .card-body p {
+    cursor: context-menu;
+}
+
+/*First-One Start*/
+.statewrapper .first-one .carousel img {
+    width: 100%;
+}
+
+.statewrapper .first-one .ygnslider {
+    margin-top: 20px;
+}
+
+.statewrapper .first-one b {
+    font-size: 2em;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+}
+
+.statewrapper .first-one .third-under {
+    width: 40%;
+}
+
+.statewrapper .first-one .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.statewrapper .first-one .carousel a {
+    width: 0;
+}
+
+.statewrapper .first-one .carousel .state-sl-control {
+    padding: 10px;
+}
+
+/*First-One End*/
+
+/*Second-Three Start*/
+.statewrapper .second-three .card .carousel .carousel-item > img {
+    width: 100%;
+}
+
+.statewrapper .second-three .card .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.statewrapper .second-three .card {
+    height: 95%;
+}
+
+.statewrapper .second-three .card .carousel .carousel-indicators > li.active {
+    background: #FFFFFF;
+}
+
+.statewrapper .second-three .card .carousel .carousel-indicators > li:hover {
+    cursor: pointer;
+}
+
+.statewrapper .card .card-body {
+    position: relative;
+    left: auto;
+    top: -20px;
+}
+
+.statewrapper .second-three .card .carousel a {
+    width: 0;
+}
+
+.statewrapper .second-three .card .carousel .state-sl-control {
+    padding: 10px;
+}
+
+hr {
+    height: 3px;
+    background: black;
+    position: relative;
+    top: -10px;
+}
+
+/*Second-Three End*/
+
+/*Third-three Start*/
+.statewrapper .third-three .card {
+    height: 95%;
+}
+
+.statewrapper .third-three .card .carousel .carousel-item > img {
+    width: 100%;
+}
+
+.statewrapper .third-three .card .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.statewrapper .third-three .card .carousel .carousel-indicators > li.active {
+    background: #FFFFFF;
+}
+
+.statewrapper .third-three .card .carousel .carousel-indicators > li:hover {
+    cursor: pointer;
+}
+
+.statewrapper .third-three .card .carousel a {
+    width: 0;
+}
+
+.statewrapper .third-three .card .carousel .state-sl-control {
+    padding: 10px;
+}
+
+/*Third-three End*/

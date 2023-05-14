@@ -1,0 +1,19 @@
+.totop {
+    background: #d1d1d1;
+    border-radius: 8px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 99;
+    display: none;
+    padding: 6px 7px;
+    box-shadow: 1px 1px 1px black;
+}
+
+.totop > i {
+    color: #656565;
+}
+
+.totop:hover > i {
+    color: black;
+}

@@ -1,0 +1,46 @@
+.slidewrapper {
+    position: relative;
+}
+
+.slidewrapper .carousel-inner .carousel-item img {
+    width: 100%;
+}
+
+.slidewrapper a {
+    width: 0;
+}
+
+.slidewrapper .mycontrol {
+    background: #FFFFFF;
+    padding: 0 10px;
+    border-radius: 5px;
+    transition: all .5s linear;
+    box-shadow: 1px 1px 1px white;
+}
+
+.slidewrapper .mycontrol:hover {
+    background: #3094f9;
+    border-radius: 15px;
+}
+
+.slidewrapper .carousel-indicators {
+    position: absolute;
+    bottom: 30px;
+}
+
+.slidewrapper .carousel-indicators > li {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background: transparent;
+    cursor: pointer;
+    border: 2px solid white;
+}
+
+.slidewrapper .carousel-indicators > li:hover {
+    background: #FFFFFF;
+}
+
+.slidewrapper .carousel-indicators > li.active {
+    background: #ffffff;
+}

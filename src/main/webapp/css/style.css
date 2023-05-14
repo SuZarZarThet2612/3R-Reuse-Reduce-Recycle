@@ -1,0 +1,33 @@
+.image-background{
+	min-width: 100%;
+	min-height: 100%;
+	width:auto;
+	height:auto;
+	margin-right: 60px;
+}
+header{
+	background: rgba(0,0,100,0.5);
+	height:100vh;
+	
+}
+.font{
+	font-size: 15px;
+	font-family: Arial;
+	font-style: sans-serif;
+	font-weight: bold;
+}
+.btn{
+	font-size: 16px;
+	color:#fff;
+	letter-spacing:1px;
+	margin:4px;
+	padding:7px 28px;
+	text-decoration: none;
+	border:1px solid coral;
+	border-radius:25px;
+}
+.btn1{
+	background: coral;
+	color:#fff;
+}
+	

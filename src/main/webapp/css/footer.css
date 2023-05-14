@@ -1,0 +1,56 @@
+.footer .phone {
+    font-size: 22px;
+}
+
+.footer .mail, .gmail {
+    font-size: 22px;
+}
+
+.footer .email > a, .gmail > a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer .social a > i {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 100%;
+    background: #000;
+}
+
+.footer .address h3 {
+    margin-top: 10px;
+}
+
+.footer address {
+    font-weight: bold;
+}
+
+#QRViber {
+    margin: 5px 0 0;
+}
+
+.footer h3 {
+    color: black;
+}
+
+.footer .contact b > i {
+    padding-left: 80px;
+}
+
+.footer .contact b > a {
+    text-decoration: none;
+}
+
+.footer .address b > a {
+    text-decoration: none;
+}
+
+hr {
+    height: 3px;
+    background: black;
+    position: relative;
+    top: -10px;
+}

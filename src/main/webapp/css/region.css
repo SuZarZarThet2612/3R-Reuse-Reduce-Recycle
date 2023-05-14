@@ -1,0 +1,131 @@
+.regionwrapper h3 {
+    padding: 5px 10px 10px;
+    border: 5px double;
+    margin-top: 30px;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px black;
+    box-shadow: 2px 1px 3px 1px black inset;
+}
+
+.regionwrapper .card b {
+    cursor: pointer;
+    font-size: 2em;
+    /*text-shadow: 2px 2px 3px black;*/
+    /*text-decoration: underline;*/
+}
+
+.regionwrapper .card .card-body p {
+    cursor: context-menu;
+}
+
+/*First-Three Start*/
+.regionwrapper .first-three .card .carousel .carousel-item > img {
+    width: 100%;
+}
+
+.regionwrapper .first-three .card .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.regionwrapper .first-three .card {
+    height: 95%;
+}
+
+.regionwrapper .first-three .card .carousel .carousel-indicators > li.active {
+    background: #FFFFFF;
+}
+
+.regionwrapper .first-three .card .carousel .carousel-indicators > li:hover {
+    cursor: pointer;
+}
+
+.regionwrapper .first-three .card .carousel > a {
+    width: 0;
+}
+
+.regionwrapper .first-three .card .carousel .region-sl-control {
+    padding: 10px;
+}
+
+.regionwrapper .card .card-body {
+    position: relative;
+    left: auto;
+    top: -20px;
+}
+
+hr {
+    height: 3px;
+    background: black;
+    position: relative;
+    top: -10px;
+}
+
+/*First-Three End*/
+
+/*Second-Three Start*/
+.regionwrapper .second-three .card .carousel .carousel-item > img {
+    width: 100%;
+}
+
+.regionwrapper .second-three .card .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.regionwrapper .second-three .card {
+    height: 95%;
+}
+
+.regionwrapper .second-three .card .carousel .carousel-indicators > li.active {
+    background: #FFFFFF;
+}
+
+.regionwrapper .second-three .card .carousel .carousel-indicators > li:hover {
+    cursor: pointer;
+}
+
+.regionwrapper .second-three .card .carousel > a {
+    width: 0;
+}
+
+.regionwrapper .second-three .card .carousel .region-sl-control {
+    padding: 10px;
+}
+
+/*Second-Three End*/
+
+/*Third-One Start*/
+.regionwrapper .third-one .carousel img {
+    width: 100%;
+}
+
+.regionwrapper .third-one b {
+    font-size: 2em;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+}
+
+.regionwrapper .third-one .third-under {
+    width: 40%;
+}
+
+.regionwrapper .third-one .carousel .carousel-indicators > li {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.regionwrapper .third-one .carousel > a {
+    width: 0;
+}
+
+.regionwrapper .third-one .carousel .region-sl-control {
+    padding: 10px;
+}
+
+/*Third-One End*/
